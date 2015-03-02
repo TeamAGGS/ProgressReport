@@ -1,5 +1,6 @@
 
 # SMOTE Algorithm
+
 **Why SMOTE the data?**
 
 - To build a training model that is more efficient.

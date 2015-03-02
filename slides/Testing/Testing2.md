@@ -5,3 +5,4 @@
 - According to Arisholm and Briand, if a data miner works, PD must be greater than LOC, which is mimnial curve (y=x).
 - As shown from the plot we got, our result (green curve) lied between Manual-Down (black curve) and mimnial.
 - So, our model works (better than the mimnial).
+
